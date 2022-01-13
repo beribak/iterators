@@ -29,6 +29,6 @@ def louchebemize(sentence)
     return word
   end
 
-  #use this for testing
+  # uncomment this method for testing it should return elloH + a random sufix from the array on the first line of the method
   #puts louchebemize("Hello World!!!") 
   
